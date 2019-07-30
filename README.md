@@ -4,9 +4,14 @@
 
 ## Build Setup
 
+
 ``` bash
+# install before run
+$ npm install bootstrap
+$ npm install bootstrap
+
 # install dependencies
-$ npm run install
+$ npm install @nuxtjs/axios
 
 # serve with hot reload at localhost:3000
 $ npm run dev
